@@ -29,7 +29,7 @@ class StarField{
     endpoint = new PVector(mouseX, mouseY);
 
     /*初始化所有的星星*/
-    stars = new ArrayList();
+    stars = new ArrayList<Star>();
     for(int i = 0; i < STAR_COUNT; i++){
       stars.add(new Star());
     }

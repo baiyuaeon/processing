@@ -1,3 +1,11 @@
+/*
+ author: MiniPear
+ github: https://github.com/pearmini/processing
+ blog: https://blog.csdn.net/weixin_38937890/article/details/89066456
+ openprocessing: 
+*/
+
+
 /*这个是一个由星星构成的粒子系统
   拥有星星的所有状态和行为*/
 StarField sf;
