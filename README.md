@@ -9,5 +9,5 @@
 	[code](https://github.com/pearmini/processing/tree/master/StarCloud))
 - SineWavesPlus: 
 	([preview](https://www.openprocessing.org/sketch/711256),
-	 [blog](),
-	[code]())
+	 [blog](https://minipear.blog.csdn.net/article/details/90119004),
+	[code](https://github.com/pearmini/processing/tree/master/SineWaves/SineWavesPlus))
